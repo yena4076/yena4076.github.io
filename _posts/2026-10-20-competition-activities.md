@@ -4,7 +4,7 @@ layout: post
 title: "경진대회 참가 활동"
 info: "산업 분석 및 창업 아이디어 기획"
 tech: "Research, Analysis, Planning"
-type: Activity
+type: toy
 ---
 
 ## 활동 소개
