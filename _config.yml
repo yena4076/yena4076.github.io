@@ -1,15 +1,14 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: yena
+baseurl: ""
+url: "https://yena4076.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
+  name: Yena Kin
   desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  email: kbsss8165@gmail.com
 
 # social
 social:
@@ -17,13 +16,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook: 
   flickr:
-  github: kssim
+  github: yena4076
   google_plus:
-  instagram:
+  instagram: yena_0407  
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin: 
   pinterest:
   reddit:
   soundcloud:
